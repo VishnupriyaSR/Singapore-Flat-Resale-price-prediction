@@ -56,9 +56,9 @@ Interpret the model results and assess its performance based on the defined prob
 
 # Model Evaluation: 
 
-Evaluate the model's predictive performance using regression metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or Root Mean Squared Error (RMSE)
+Evaluate the model's predictive performance using regression metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), 
 
-and R2 Score.
+or Root Mean Squared Error (RMSE) and R2 Score.
 
 # Streamlit Web Application: 
 
