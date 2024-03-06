@@ -36,6 +36,12 @@ Identify Skewness in the dataset and treat skewness with appropriate data transf
 
 Extract relevant features from the dataset, including town, flat type, storey range, floor area, flat model, and lease commence date.
 
+Calculate latitude and longitude values for each MRT station and address(street and block number) usinf OneMapAPI.
+
+These values can be used to obtain distance between nearest MRT and CBD which also impacts Resale price.
+
+Refer: OneMapAPI - https://www.onemap.gov.sg/apidocs/
+
 # Model Selection and Training:.
 
 Split the dataset into training and testing/validation sets.
