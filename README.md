@@ -62,6 +62,6 @@ or Root Mean Squared Error (RMSE) and R2 Score.
 
 # Streamlit Web Application: 
 
-Develop a user-friendly web application using Streamlit that allows users to input details of a flat (town, flat type, storey range, etc.). Utilize the trained
+Develop a user-friendly web application using Streamlit that allows users to input details of a flat (town, flat type, storey range, etc.). 
 
-machine learning model to predict the resale price based on user inputs.
+Utilize the trained machine learning model to predict the resale price based on user inputs.
